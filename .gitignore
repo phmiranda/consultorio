@@ -14,3 +14,10 @@ symfony.lock
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+# hosted server
+public/default.php
+
+# files
+*.iml
+*.log
