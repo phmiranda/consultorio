@@ -4,6 +4,7 @@
 # comentário
 composer.lock
 package-lock.json
+symfony.lock
 
 ###> symfony/framework-bundle ###
 /.env.local
@@ -13,3 +14,10 @@ package-lock.json
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+# hosted server
+public/default.php
+
+# files
+*.iml
+*.log
